@@ -8,3 +8,4 @@ class profile::web {
     owner   => 'root',
     mode    =>  '0655',
  }
+}
